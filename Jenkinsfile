@@ -61,4 +61,4 @@ pipeline {
             echo 'Pipeline FAILED. Please check the logs above.'
         }
     }
-}https://github.com/shreyapatil05/jenkins.git
+}
